@@ -7,6 +7,19 @@
 - **Batch Transactions** – Execute multiple trades seamlessly.
 - **Liquidity & Portfolio Management** – Efficient fund allocation and monitoring.
 
+## Trading Automation
+- **Volume Bot: Simulate organic trading activity.**
+- **Snipe Bot: Mass-buy tokens before CTO.**
+- **Token Creation: Launch tokens on PUMP.FUN and Raydium.**
+- **Liquidity Management: Create and manage pools on Raydium/Orca.**
+- **Market-Making: Ensure liquidity and tighter spreads.**
+- **Batch Operations: Create wallets and perform bulk transfers.**
+
+## Tech Stack
+`Blockchain: Solana`
+`Platforms: Raydium, PUMP.FUN, MOONSHOT, METEORA`
+`Tools: Excel integration, real-time analytics, customizable bots`
+
 ## 🛠 Setup
 1. **Get Access** – [Visit Website](https://linktr.ee/solvolumebot) & sign up.
 2. **Activate** – Obtain a key and start the bot.
